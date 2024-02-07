@@ -59,21 +59,21 @@ Checklist for organizing a meetup. Please share and comment 😊
 
 ## 1 hour before the meetup 🌯💡🎤
 
-* Organizers meet up at the location
-* Check that food and drinks are in place
+* Organizers meet up at the location together with speakers
+* Go through agenda
+* Remind them to translate their slides (read text, explain images)
+* Test all the presentations
 * Test wifi
 * Test the sound
     * Check batteries for microphones
 * Test lights
 * Decide who will be welcoming attendees
-* Make sure there are water available for the person speaking
 
 ## 30 minutes before the meetup 🤝
 
-* Meet up with speakers
-* Go through agenda
-* Remind them to translate their slides (read text, explain images)
-* Test all the presentations
+* Organizers should be at the door welcoming early attendees
+* Check that food and drinks are in place
+* Make sure there are water available for the person speaking
 
 ## During meetup 🥤🚪
 
