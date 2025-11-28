@@ -33,6 +33,8 @@ Checklist for organizing a meetup. Please share and comment 😊
     * Rough draft for an agenda (unless we haven't nailed it already)
     * Make sure to have information in both Swedish and English if meetup is in Swedish
     * Accessibility info for the location
+    * Photo policy
+    * Food and allergies
     * If video, inform about video
 * Set a time for when people can start signing up (4 weeks)
 
@@ -53,6 +55,7 @@ Checklist for organizing a meetup. Please share and comment 😊
     * What is t12t
     * Code of Conduct
     * Info regarding the location: toilets, exits etc.
+    * Photo policy (should match with event info on meetup)
     * If video, inform about video
     * When does the meetup end?
 
@@ -73,7 +76,7 @@ Checklist for organizing a meetup. Please share and comment 😊
 
 * Organizers should be at the door welcoming early attendees
 * Check that food and drinks are in place
-* Make sure there are water available for the person speaking
+* Make sure there is water available for the person speaking
 
 ## During meetup 🥤🚪
 
